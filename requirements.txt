@@ -41,7 +41,7 @@ defer==1.0.6
 defusedxml==0.6.0
 dill==0.3.1.1
 distro-info===0.18ubuntu0.18.04.1
-Django==3.0.6
+Django==3.0.7
 dlib==19.19.0
 docker==4.2.0
 docker-compose==1.25.4
